@@ -1,4 +1,5 @@
 # Task Description 
+
 - We want to solve a typical supervised learning problem
 - Given text at the input, we want to generate labels as output
 - Data comes from a subset of SST-2 dataset, which is a sentiment classification dataset
@@ -22,3 +23,8 @@ predictions
 - You should simply train your model on the train data, and then use the test data to
 measure the quality of predictions on unseen samples
 - Analysis of predictions is necessary, such as using confusion matrix
+- Clean code is always appreciated 
+- After you have done the tasks, you should be able to present your work 
+- For necessary questions, you can contact me at my Telegram or Skype account
+
+## Challege By: martiny76
