@@ -27,4 +27,6 @@ measure the quality of predictions on unseen samples
 - After you have done the tasks, you should be able to present your work 
 - For necessary questions, you can contact me at my Telegram or Skype account
 
-#### Challege By: [@martiny76](https://github.com/martiny76)
+
+## 💝 Acknowledgment:
+Challenge Designed by [@martiny76](https://github.com/martiny76)
