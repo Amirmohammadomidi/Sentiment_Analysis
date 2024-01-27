@@ -29,4 +29,4 @@ measure the quality of predictions on unseen samples
 
 
 ## 💝 Acknowledgment
-Challenge Designed by [@martiny76](https://github.com/martiny76)
+Task Description Designed by [@martiny76](https://github.com/martiny76)
